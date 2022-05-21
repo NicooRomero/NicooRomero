@@ -5,8 +5,8 @@
 - 📫 How to reach me: nicooromero@gmail.com or https://www.linkedin.com/in/nicooromero/
 
 - 💼 Professional experience
-    🏛️ Banco Santiago del Estero 
-      🖥️ Informatic Security - Information Security Administrator
+    - 🏛️ Banco Santiago del Estero 
+      - 🖥️ Informatic Security - Information Security Administrator
 
 - 📚 Courses & Certificates
     - 🛡️ Cybersecurity
