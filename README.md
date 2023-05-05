@@ -23,6 +23,7 @@
       - ✔️ Networking Essentials by Cisco.
       - ✔️ Hacking Ético & Ciberseguridad by Udemy.
       - ✔️ Máster en Seguridad Informática by Udemy - IBM SkillsBuild for Job Seekers.
+      - ✔️ Experto universitario en hacking ético (ethical hacking) - UTNBA e-learning
 <!---
 NicooRomero/NicooRomero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
