@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning everything related to IT technologies.
 - 💞️ I’m looking to collaborate on any project that allows me to grow professionally.
 - 📫 How to reach me: nicooromero@gmail.com or https://www.linkedin.com/in/nicooromero/
+- 💻 www.nicolasromero.com.ar
 
 - 💼 Professional experience
     - 🏛️ Banco Santiago del Estero 
