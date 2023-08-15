@@ -18,7 +18,6 @@
       - ✔️ React - Hooks Context Redux MERN by Udemy
       
     - 🛡️ Cybersecurity
-      - ✔️ Introduction to Cybersecurity by Cisco.
       - ✔️ Cybersecurity Essentials by Cisco.
       - ✔️ Networking Essentials by Cisco.
       - ✔️ Hacking Ético & Ciberseguridad by Udemy.
